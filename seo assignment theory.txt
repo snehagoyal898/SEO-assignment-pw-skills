@@ -1,0 +1,19 @@
+SEO ASSIGNMENT:-
+
+Task 1)  What is SEO and explain the importance of SEO?
+
+Solution:-SEO stands for search engine optimization.SEO means improving the visibility or ranking of a webpage in search engines like google.The higher the SEO of a webpage ,the more visibility it will get and consequently the more audience it will receive.
+Importance of SEO:-
+1)Improves user experience
+2)Gain more visitors
+3)Good for the social promotion of a website
+4)Good for improving the business of a commercial site.
+
+Task 3) What are the Benefits of Using Meta Tag?
+
+Solution: Meta tags are information of code that provide information about your web page to search engines and users. They can help you optimize your site for SEO and improve your click-through rate. By using meta tags, you can make sure browsers and search engines behave as you want them to, and display your content in SERPs according to your preferences.Meta tags are elements within your HTML code that aren’t visible to the user and yet play a crucial role in your SEO performance and the user experience you provide.They will therefore impact your traffic and engagement rates, which can impact your SEO and rankings. Meta tags are an important part of a solid SEO strategy.
+
+Task 4) Define favicon and give an illustrative example.
+
+Solution:A favicon that stands for a favorite icon is a tiny icon included along with a website, which is displayed in places 
+like the browser's address bar, page tabs, and bookmarks menu. It is usually 16 * 16 pixels in size and stored in GIF, PNG, or ICO file format.
